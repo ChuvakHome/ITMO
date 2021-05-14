@@ -1,0 +1,5 @@
+Product.id;Product.name;Coordinates.x;Coordinates.y;Product.creationDate;Product.price;Product.partNumber;Product.manufactureCost;Product.unitOfMeasure;Person.name;Person.passportID;Location.x;Location.y;Location.name
+1;spade;0.0;1;2021-03-19T08:01:03.057;123;gawerhg;56.7;KILOGRAMS;John;1141;12.0;15;Saint-Petersburg
+2;pickaxe;5.0;4;2021-03-19T08:01:03.064;456;wgiw;56.4;METERS;Lary;1141;12.0;15;Saint-Petersburg
+3;sword;0.0;1;2021-03-19T08:01:03.064;123;gawerhg;56.7;KILOGRAMS;Steve;1141;12.0;15;Saint-Petersburg
+4;axe;5.0;4;2021-03-19T08:01:03.069;456;wgiw;56.4;METERS;Notch;1141;12.0;15;Saint-Petersburg
