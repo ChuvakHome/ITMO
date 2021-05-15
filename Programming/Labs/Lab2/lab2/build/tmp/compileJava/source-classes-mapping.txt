@@ -1,0 +1,36 @@
+Lab2/Main.java
+ Main
+Lab2/ru/ifmo/lab2/move/PhysicalMoveSlash.java
+ ru.ifmo.lab2.move.PhysicalMoveSlash
+Lab2/ru/ifmo/lab2/move/PhysicalMoveLowSweep.java
+ ru.ifmo.lab2.move.PhysicalMoveLowSweep
+Lab2/ru/ifmo/lab2/move/PhysicalMoveMetalClaw.java
+ ru.ifmo.lab2.move.PhysicalMoveMetalClaw
+Lab2/ru/ifmo/lab2/move/SpecialMoveFocusBlast.java
+ ru.ifmo.lab2.move.SpecialMoveFocusBlast
+Lab2/ru/ifmo/lab2/pokemon/PokemonTogepi.java
+ ru.ifmo.lab2.pokemon.PokemonTogepi
+Lab2/ru/ifmo/lab2/move/SpecialMoveThunder.java
+ ru.ifmo.lab2.move.SpecialMoveThunder
+Lab2/ru/ifmo/lab2/move/StatusMoveSwagger.java
+ ru.ifmo.lab2.move.StatusMoveSwagger
+Lab2/ru/ifmo/lab2/pokemon/PokemonBisharp.java
+ ru.ifmo.lab2.pokemon.PokemonBisharp
+Lab2/ru/ifmo/lab2/pokemon/PokemonTogetic.java
+ ru.ifmo.lab2.pokemon.PokemonTogetic
+Lab2/ru/ifmo/lab2/move/StatusMoveWorkUp.java
+ ru.ifmo.lab2.move.StatusMoveWorkUp
+Lab2/ru/ifmo/lab2/move/PhysicalMoveFacade.java
+ ru.ifmo.lab2.move.PhysicalMoveFacade
+Lab2/ru/ifmo/lab2/pokemon/PokemonPawniard.java
+ ru.ifmo.lab2.pokemon.PokemonPawniard
+Lab2/ru/ifmo/lab2/pokemon/PokemonTogekiss.java
+ ru.ifmo.lab2.pokemon.PokemonTogekiss
+Lab2/ru/ifmo/lab2/move/SpecialMoveAncientPower.java
+ ru.ifmo.lab2.move.SpecialMoveAncientPower
+Lab2/ru/ifmo/lab2/pokemon/PokemonBuzzwole.java
+ ru.ifmo.lab2.pokemon.PokemonBuzzwole
+Lab2/ru/ifmo/lab2/move/StatusMoveDoubleTeam.java
+ ru.ifmo.lab2.move.StatusMoveDoubleTeam
+Lab2/ru/ifmo/lab2/move/StatusMoveRest.java
+ ru.ifmo.lab2.move.StatusMoveRest
