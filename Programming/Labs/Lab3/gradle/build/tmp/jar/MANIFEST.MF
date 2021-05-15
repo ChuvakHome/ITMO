@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ../../libs/SpringFramework.jar
+Main-Class: ru.itmo.lab3.main.Main
+

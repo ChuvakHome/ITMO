@@ -1,0 +1,56 @@
+Lab3/ru/clothes/ColouredClothes.java
+ ru.itmo.lab3.clothes.ColouredClothes
+Lab3/ru/main/Main.java
+ ru.itmo.lab3.main.Main
+Lab3/ru/clothes/Shoes.java
+ ru.itmo.lab3.clothes.Shoes
+Lab3/ru/clothes/Sandals.java
+ ru.itmo.lab3.clothes.Sandals
+Lab3/ru/clothes/ClothesType.java
+ ru.itmo.lab3.clothes.ClothesType
+Lab3/ru/clothes/Boots.java
+ ru.itmo.lab3.clothes.Boots
+Lab3/ru/clothes/Headwear.java
+ ru.itmo.lab3.clothes.Headwear
+Lab3/ru/clothes/Tie.java
+ ru.itmo.lab3.clothes.Tie
+Lab3/ru/clothes/UpperClothes.java
+ ru.itmo.lab3.clothes.UpperClothes
+Lab3/ru/clothes/IColor.java
+ ru.itmo.lab3.clothes.IColor
+Lab3/ru/clothes/Jacket.java
+ ru.itmo.lab3.clothes.Jacket
+Lab3/ru/item/food/IBerry.java
+ ru.itmo.lab3.item.food.IBerry
+Lab3/ru/clothes/IClothes.java
+ ru.itmo.lab3.clothes.IClothes
+Lab3/ru/item/food/Eatable.java
+ ru.itmo.lab3.item.food.Eatable
+Lab3/ru/item/food/ItemFood.java
+ ru.itmo.lab3.item.food.ItemFood
+Lab3/ru/person/Person.java
+ ru.itmo.lab3.person.Person
+Lab3/ru/item/IItemOwner.java
+ ru.itmo.lab3.item.IItemOwner
+Lab3/ru/clothes/Trousers.java
+ ru.itmo.lab3.clothes.Trousers
+Lab3/ru/clothes/Pants.java
+ ru.itmo.lab3.clothes.Pants
+Lab3/ru/item/food/ItemMoonRaspberry.java
+ ru.itmo.lab3.item.food.ItemMoonRaspberry
+Lab3/ru/clothes/Hat.java
+ ru.itmo.lab3.clothes.Hat
+Lab3/ru/clothes/Cap.java
+ ru.itmo.lab3.clothes.Cap
+Lab3/ru/clothes/Shirt.java
+ ru.itmo.lab3.clothes.Shirt
+Lab3/ru/clothes/Color.java
+ ru.itmo.lab3.clothes.Color
+Lab3/ru/item/Item.java
+ ru.itmo.lab3.item.Item
+Lab3/ru/item/food/ItemMoonFood.java
+ ru.itmo.lab3.item.food.ItemMoonFood
+Lab3/ru/item/IItem.java
+ ru.itmo.lab3.item.IItem
+Lab3/ru/item/food/ItemSimpleRaspberry.java
+ ru.itmo.lab3.item.food.ItemSimpleRaspberry
